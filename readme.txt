@@ -1,3 +1,3 @@
 study git
 git tool
-branch
+branch of git
